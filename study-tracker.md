@@ -6,9 +6,9 @@
 - **Current Progress:** Chapter 1 - Building Blocks
 
 ## Progress Overview
-- **Total Study Hours:** 2.5 hours
-- **Chapters Completed:** 0/17
-- **Chapters In Progress:** Chapter 1 - Building Blocks
+- **Total Study Hours:** 6 hours
+- **Chapters Completed:** 2/17
+- **Chapters In Progress:** Chapter 1 review questions pending
 - **Practice Tests Taken:** 0
 
 ## Study Sessions
@@ -22,6 +22,23 @@
 - **Notes:** First serious study day
 - **Status:** ✅ Chapter reading complete, 🔄 Review problems in progress
 
+### 2025-07-23 (Day 2)
+- **Duration:** 2 hours
+- **Topics Covered:** Chapter 1 review, Chapter 2 - Operators
+- **Activities:**
+  - Reviewed Chapter 1 notes and reread chapter
+  - Read ~12 pages of Chapter 2 (Operators)
+- **Notes:** Good reinforcement of Chapter 1 concepts, starting to understand operators
+- **Status:** 🔄 Chapter 1 review complete, Chapter 2 reading in progress
+
+### 2025-07-24 (Day 3)
+- **Duration:** 1.5 hours
+- **Topics Covered:** Chapter 2 - Operators
+- **Activities:**
+  - Completed reading Chapter 2
+- **Notes:** Finished Chapter 2 reading. Next: Chapter 3, review, then practice problems for first 3 chapters
+- **Status:** ✅ Chapter 2 reading complete
+
 ## Chapter Progress
 
 ### Chapter 1: Building Blocks
@@ -32,7 +49,9 @@
 - **Study Notes:** ✅ Complete
 
 ### Chapter 2: Operators
-- **Status:** ⏳ Not Started
+- **Status:** ✅ Complete
+- **Reading:** ✅ Complete
+- **Review Questions:** ⏳ Not Started
 
 ### Chapter 3: Making Decisions
 - **Status:** ⏳ Not Started
@@ -83,10 +102,12 @@
 - **Week 1:** Complete Chapter 1 review questions and start Chapter 2
 
 ## Study Statistics
-- **Average Hours per Day:** 2.5
+- **Average Hours per Day:** 2.0
 - **Most Productive Day:** 2025-07-23 (2.5 hours)
-- **Current Streak:** 1 day
+- **Current Streak:** 3 days
 
 ## Notes and Reflections
 - First day went well, good momentum on Chapter 1
-- Need to finish Chapter 1 review questions before moving to Chapter 2
+- Chapter 1 review reinforced key concepts
+- Good progress starting Chapter 2 on operators
+- Plan: finish first 3 chapters reading, then do practice questions and tests for reinforcement
