@@ -2,6 +2,7 @@
 // Try to compile and run each example
 
 public class BasicClassStructure {
+
     // TODO: Add instance variables
     
     // TODO: Add static variables
